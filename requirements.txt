@@ -4,7 +4,7 @@ langchain
 langchain-text-splitters
 langchain-community
 langgraph
-"langchain[google-genai]"
+langchain[google-genai]
 dotenv
 pypdf
 sentence-transformers
