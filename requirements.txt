@@ -9,3 +9,4 @@ dotenv
 pypdf
 sentence-transformers
 faiss-cpu
+streamlit
