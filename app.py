@@ -3,7 +3,7 @@ import dotenv
 import os
 from langchain.chat_models import init_chat_model
 from langchain_core.prompts import ChatPromptTemplate
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from query import load_vector_store, combine_vector_stores
 from api_tool import search_jp_vocabulary
 
